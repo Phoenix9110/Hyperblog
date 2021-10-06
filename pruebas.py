@@ -1,0 +1,4 @@
+var = """
+    "HOLA"
+"""
+print(var)
